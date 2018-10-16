@@ -1,0 +1,26 @@
+[2018-10-16 16:40:14.325] [exthost1] [info] extension host started
+[2018-10-16 16:40:14.344] [exthost1] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-10-16 16:40:14.344] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/debug-auto-launch/out/extension
+[2018-10-16 16:40:14.351] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-10-16 16:40:14.351] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/emmet/dist/extension
+[2018-10-16 16:40:14.394] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-10-16 16:40:14.394] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/git/dist/main
+[2018-10-16 16:40:14.555] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-10-16 16:40:14.555] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/merge-conflict/out/extension
+[2018-10-16 16:40:14.566] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-10-16 16:40:14.566] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/search-rg/out/extension
+[2018-10-16 16:40:14.571] [exthost1] [info] ExtensionService#_doActivateExtension cmschuetz12.wal {"startup":true,"activationEvent":"*"}
+[2018-10-16 16:40:14.571] [exthost1] [info] ExtensionService#loadCommonJSModule /home/isotope/.vscode-oss/extensions/cmschuetz12.wal-0.1.0/out/extension
+[2018-10-16 16:40:14.599] [exthost1] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"activationEvent":"*"}
+[2018-10-16 16:40:14.599] [exthost1] [info] ExtensionService#loadCommonJSModule /home/isotope/.vscode-oss/extensions/equinusocio.vsc-material-theme-2.4.2/extensions/material.theme.config.js
+[2018-10-16 16:40:14.612] [exthost1] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"activationEvent":"*"}
+[2018-10-16 16:40:14.612] [exthost1] [info] ExtensionService#loadCommonJSModule /home/isotope/.vscode-oss/extensions/naumovs.color-highlight-2.3.0/dist/extension
+[2018-10-16 16:40:14.646] [exthost1] [info] eager extensions activated
+[2018-10-16 16:40:14.667] [exthost1] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"activationEvent":"onLanguage:python"}
+[2018-10-16 16:40:14.667] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/python/out/pythonMain
+[2018-10-16 16:40:14.888] [exthost1] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-10-16 16:40:14.888] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/configuration-editing/out/extension
+[2018-10-16 16:40:14.899] [exthost1] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-10-16 16:40:14.899] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/json-language-features/client/dist/jsonMain
+[2018-10-16 16:40:14.997] [exthost1] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-10-16 16:40:14.997] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/typescript-language-features/dist/extension

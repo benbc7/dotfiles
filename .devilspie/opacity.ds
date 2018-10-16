@@ -1,0 +1,19 @@
+(
+	if ( contains ( window_class ) "code" ) (
+		begin ( spawn_async (str "transset-df -i " (window_xid) " 0.75" ))
+	)
+)
+
+(
+	if ( or
+		( contains ( window_class ) "code" )
+		( contains ( application_name ) "code" )
+		( contains ( window_class ) "Google-chrome" )
+		( contains ( window_class ) "rofi" )
+		( contains ( application_name ) "Rofi" )
+		( contains ( window_class ) "Polybar" )
+		( contains ( window_class ) "Nemo" )) (
+			begin ( 
+				spawn_async (str "transset-df -i " (window_xid) " 0.9" ))
+	)
+)

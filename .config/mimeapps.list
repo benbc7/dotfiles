@@ -1,0 +1,5 @@
+[Default Applications]
+application/json=code-oss.desktop
+
+[Added Associations]
+application/json=code-oss.desktop;

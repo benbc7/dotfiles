@@ -1,0 +1,26 @@
+2018/10/16-14:04:59.866 923 Reusing MANIFEST /home/isotope/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2018/10/16-14:04:59.866 923 Recovering log #120
+2018/10/16-14:04:59.866 923 Reusing old log /home/isotope/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000120.log 
+2018/10/16-14:05:03.828 1161 Level-0 table #125: started
+2018/10/16-14:05:03.865 924 Current memtable full; waiting...
+2018/10/16-14:05:03.911 1161 Level-0 table #125: 1171614 bytes OK
+2018/10/16-14:05:03.914 1161 Delete type=0 #120
+2018/10/16-14:05:03.916 1161 Level-0 table #127: started
+2018/10/16-14:05:03.947 1161 Level-0 table #127: 495430 bytes OK
+2018/10/16-14:05:03.951 1161 Delete type=0 #124
+2018/10/16-14:05:05.507 1161 Level-0 table #129: started
+2018/10/16-14:05:05.545 723 Current memtable full; waiting...
+2018/10/16-14:05:05.578 1161 Level-0 table #129: 1189036 bytes OK
+2018/10/16-14:05:05.582 1161 Delete type=0 #126
+2018/10/16-14:05:05.584 1161 Level-0 table #131: started
+2018/10/16-14:05:05.617 1161 Level-0 table #131: 495430 bytes OK
+2018/10/16-14:05:05.620 1161 Delete type=0 #128
+2018/10/16-14:05:05.621 1161 Compacting 4@0 + 1@1 files
+2018/10/16-14:05:05.752 1161 Generated table #132@0: 22 keys, 1684709 bytes
+2018/10/16-14:05:05.752 1161 Compacted 4@0 + 1@1 files => 1684709 bytes
+2018/10/16-14:05:05.755 1161 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/10/16-14:05:05.755 1161 Delete type=2 #131
+2018/10/16-14:05:05.755 1161 Delete type=2 #127
+2018/10/16-14:05:05.755 1161 Delete type=2 #122
+2018/10/16-14:05:05.756 1161 Delete type=2 #125
+2018/10/16-14:05:05.756 1161 Delete type=2 #129

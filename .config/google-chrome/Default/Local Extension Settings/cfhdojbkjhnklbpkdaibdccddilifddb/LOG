@@ -1,0 +1,32 @@
+2018/10/16-17:20:42.187 1027 Reusing MANIFEST /home/isotope/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2018/10/16-17:20:42.187 1027 Recovering log #418
+2018/10/16-17:20:42.187 1027 Reusing old log /home/isotope/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/000418.log 
+2018/10/16-17:21:43.837 2087 Level-0 table #422: started
+2018/10/16-17:21:43.902 2087 Level-0 table #422: 3667494 bytes OK
+2018/10/16-17:21:43.905 2087 Delete type=0 #418
+2018/10/16-17:35:50.682 2087 Level-0 table #424: started
+2018/10/16-17:35:50.751 2087 Level-0 table #424: 3667376 bytes OK
+2018/10/16-17:35:50.756 2087 Delete type=0 #421
+2018/10/16-18:21:43.823 2087 Level-0 table #426: started
+2018/10/16-18:21:43.898 2087 Level-0 table #426: 3667540 bytes OK
+2018/10/16-18:21:43.903 2087 Delete type=0 #423
+2018/10/16-18:21:43.908 2087 Compacting 4@0 + 2@1 files
+2018/10/16-18:21:44.027 2087 Generated table #427@0: 1 keys, 3667135 bytes
+2018/10/16-18:21:44.031 2087 Generated table #428@0: 2 keys, 338 bytes
+2018/10/16-18:21:44.031 2087 Compacted 4@0 + 2@1 files => 3667473 bytes
+2018/10/16-18:21:44.033 2087 compacted to: files[ 0 2 1 0 0 0 0 ]
+2018/10/16-18:21:44.033 2087 Delete type=2 #426
+2018/10/16-18:21:44.034 2087 Delete type=2 #419
+2018/10/16-18:21:44.034 2087 Delete type=2 #417
+2018/10/16-18:21:44.035 2087 Delete type=2 #416
+2018/10/16-18:21:44.035 2087 Delete type=2 #424
+2018/10/16-18:21:44.036 2087 Delete type=2 #422
+2018/10/16-18:21:47.908 2087 Level-0 table #430: started
+2018/10/16-18:21:47.983 2087 Level-0 table #430: 3667379 bytes OK
+2018/10/16-18:21:47.985 2087 Delete type=0 #425
+2018/10/16-18:21:50.948 2087 Level-0 table #432: started
+2018/10/16-18:21:51.044 2087 Level-0 table #432: 3666305 bytes OK
+2018/10/16-18:21:51.047 2087 Delete type=0 #429
+2018/10/16-19:21:43.698 2087 Level-0 table #434: started
+2018/10/16-19:21:43.808 2087 Level-0 table #434: 3666789 bytes OK
+2018/10/16-19:21:43.811 2087 Delete type=0 #431

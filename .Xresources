@@ -1,0 +1,13 @@
+! urxvt
+!Xft.dpi: 92
+Xft.lcdfilter: lcddefault
+Xft.hinting: 1
+Xft.hintstyle: hintslight
+Xft.autohint: 0
+!Xft.rgba: rgb
+Xft.antialias: 1
+
+URxvt*font:		xft:Source Code Pro:pixelsize=14,xft:PowerlineSymbols:antialias=true:hinting=true
+URxvt*boldFont:		xft:Source Code Pro:pixelsize=14,xft:PowerlineSymbols:antialias=true:hinting=true
+
+URxvt.urlLauncher: google-chrome
