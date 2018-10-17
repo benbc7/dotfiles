@@ -78,6 +78,8 @@ WINDOW_ICONS = {
     'thunar': fa.icons['copy'],
     'sublime_text': fa.icons['file-alt'],
     'thunderbird': fa.icons['envelope'],
+    'unity': fa.icons['cube'],
+    'unityhub': fa.icons['cube'],
     'urxvt': fa.icons['terminal'],
     'xfce4-terminal': fa.icons['terminal'],
     'zenity': fa.icons['window-maximize'],

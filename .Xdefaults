@@ -1,0 +1,23 @@
+XTerm*termName: xterm-256color
+XTerm*foreground: white
+XTerm*background: black
+XTerm*locale: true
+
+
+!URXVT
+
+URxvt*buffered: true
+URxvt*termName: rxvt-256color
+URxvt*letterSpace: -1
+!URxvt*transparent: true
+!URxvt*shading: 25
+urxvt*depth: 32
+urxvt*background: rgba:0000/0000/0200/c900
+URxvt*scrollBar: false
+URxvt*urlLauncher: google-chrome
+URxvt*foreground: #eeeeee
+URxvt*background: #000000
+URxvt*utf8: true
+URxvt*locale: true
+URxvt*font: xft:Source Code Pro:pixelsize=14:antialias=true:hinting=true
+URxvt*cursorBlink: 1
