@@ -1,6 +1,8 @@
 set clipboard=unnamedplus
 set number
 
+set mouse=a
+
 filetype plugin on
 syntax on
 
