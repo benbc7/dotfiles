@@ -321,6 +321,6 @@ exec_always $SCRIPTS/autoname_workspaces.py &
 #exec ntpd -qg
 exec --no-startup-id google-chrome-stable
 exec --no-startup-id compton --config ~/.config/compton.conf -b
-exec_always xrdb ~/.Xresources
+exec_always xrdb merge ~/.Xresources
 
 # end =======================

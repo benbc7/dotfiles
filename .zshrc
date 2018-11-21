@@ -22,7 +22,7 @@ function precmd() {
 #                                   Variables
 # =============================================================================
 # Common ENV variables
-export TERM="xterm-256color"
+export TERM="rxvt-256color"
 export SHELL="/bin/zsh"
 export EDITOR="code"
 set clipboard=unnamedplus

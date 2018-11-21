@@ -1,22 +1,22 @@
 ! urxvt
-!Xft.dpi: 92
-Xft.lcdfilter: lcddefault
-Xft.hinting: 1
-Xft.hintstyle: hintslight
-Xft.autohint: 0
-!Xft.rgba: rgb
-Xft.antialias: 1
+!Xft.dpi:           92
+Xft.lcdfilter:      lcddefault
+Xft.hinting:        1
+Xft.hintstyle:      hintslight
+Xft.autohint:       0
+!Xft.rgba:          rgb
+Xft.antialias:      1
 
-XTerm*termName: xterm-256color
+XTerm*termName:     xterm-256color
 
+URxvt*termName:     rxvt-256color
 URxvt*font:			xft:Source Code Pro:pixelsize=13:antialias=true:hinting=true,xft:PowerlineSymbols:antialias=true:hinting=true
 URxvt*boldFont:		xft:Source Code Pro Black:pixelsize=13:antialias=true:hinting=true,xft:PowerlineSymbols:antialias=true:hinting=true
 
-URxvt*termName: rxvt-256color
-URxvt*letterSpace: 0
-URxvt*utf8: true
-URxvt*locale: true
+URxvt*letterSpace:  0
+URxvt*utf8:         true
+URxvt*locale:       true
 
-URxvt.urlLauncher: google-chrome
+URxvt.urlLauncher:  google-chrome
 
 URxvt.perl-ext-common: selection-to-clipboard
